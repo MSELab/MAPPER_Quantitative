@@ -1,2 +1,2 @@
 # MAPPER_Quantitative
-Here is a repository for the Multicellular Analysis Platform for Engineering Research (MAPPER) Drosophila wing analysis pipeline.
+This is a repository for the Multicellular Analysis Platform for Engineering Research (MAPPER) Drosophila wing analysis pipeline developed by [Nilay Kumar](https://scholar.google.com/citations?user=XZjD7PYAAAAJ&hl=en&oi=ao) within the [Multicellular Systems Engineering Lab](http://sites.nd.edu/zartmanlab/) at the University of Notre Dame. Please direct any questions to the lab principal investigator, [Dr. Jeremiah Zartman](http://sites.nd.edu/zartmanlab/contacts/). 
